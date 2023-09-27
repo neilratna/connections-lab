@@ -1,0 +1,35 @@
+body {
+    padding:10px;
+    background-color: black;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.project__heading { 
+    color: yellow;
+    text-align: center;
+    margin-top: 0;
+    font-size: 100px;
+   
+}
+
+.project__subheading { 
+    color: yellow;
+    text-align: center;
+    margin-top: 0;
+    font-size: 20px;
+   
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    width: 500px;
+    height: 600px;
+    background-color: white;
+    text-align: center;
+    margin: 1px;
+}
